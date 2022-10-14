@@ -12,3 +12,17 @@ D:\VisualStudio\Template\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.GenerateReso
 D:\VisualStudio\Template\cuc\src\cuc.core\obj\Debug\cuc.core.GeneratedMSBuildEditorConfig.editorconfig
 D:\VisualStudio\Template\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.CopyLocal.cache
 D:\VisualStudio\Template\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.RuntimeCopyLocal.cache
+D:\VisualStudio\CUC\cuc\src\cuc.core\bin\Debug\cuc.core.dll
+D:\VisualStudio\CUC\cuc\src\cuc.core\bin\Debug\cuc.core.pdb
+D:\VisualStudio\CUC\cuc\src\cuc.core\bin\Debug\cuc.res.dll
+D:\VisualStudio\CUC\cuc\src\cuc.core\bin\Debug\cuc.res.pdb
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.AssemblyReference.cache
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.TagWallLayersForm.resources
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.GenerateResource.cache
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.CopyLocal.cache
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.RuntimeCopyLocal.cache
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.CopyComplete
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.dll
+D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.pdb
