@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB38AD53-B204-4475-BAF3-00B8EA4763F3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cuc.res</RootNamespace>
+    <AssemblyName>cuc.res</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResourceAssembly.cs" />
+    <Compile Include="ResourceImage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Img\Icon\14_320x.png" />
+    <EmbeddedResource Include="Img\Icon\14_32x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Img\Icon\#0.ico" />
+    <EmbeddedResource Include="Img\Icon\#0.png" />
+    <EmbeddedResource Include="Img\Icon\#1.ico" />
+    <EmbeddedResource Include="Img\Icon\#1.png" />
+    <EmbeddedResource Include="Img\Icon\#2.ico" />
+    <EmbeddedResource Include="Img\Icon\#2.png" />
+    <EmbeddedResource Include="Img\Icon\#3.ico" />
+    <EmbeddedResource Include="Img\Icon\#3.png" />
+    <EmbeddedResource Include="Img\Icon\#4.ico" />
+    <EmbeddedResource Include="Img\Icon\#4.png" />
+    <EmbeddedResource Include="Img\Icon\#5.ico" />
+    <EmbeddedResource Include="Img\Icon\#5.png" />
+    <EmbeddedResource Include="Img\Icon\#6.ico" />
+    <EmbeddedResource Include="Img\Icon\#6.png" />
+    <EmbeddedResource Include="Img\Icon\#7.ico" />
+    <EmbeddedResource Include="Img\Icon\#7.png" />
+    <EmbeddedResource Include="Img\Icon\#8.ico" />
+    <EmbeddedResource Include="Img\Icon\#8.png" />
+    <EmbeddedResource Include="Img\Icon\#9.ico" />
+    <EmbeddedResource Include="Img\Icon\#9.png" />
+    <EmbeddedResource Include="Img\Icon\1.ico" />
+    <EmbeddedResource Include="Img\Icon\1.jpg" />
+    <EmbeddedResource Include="Img\Icon\10.ico" />
+    <EmbeddedResource Include="Img\Icon\10.jpg" />
+    <EmbeddedResource Include="Img\Icon\11.ico" />
+    <EmbeddedResource Include="Img\Icon\11.jpg" />
+    <EmbeddedResource Include="Img\Icon\12.ico" />
+    <EmbeddedResource Include="Img\Icon\12.jpg" />
+    <EmbeddedResource Include="Img\Icon\14.ico" />
+    <EmbeddedResource Include="Img\Icon\14.jpg" />
+    <EmbeddedResource Include="Img\Icon\15.ico" />
+    <EmbeddedResource Include="Img\Icon\16.ico" />
+    <EmbeddedResource Include="Img\Icon\17.ico" />
+    <EmbeddedResource Include="Img\Icon\2.ico" />
+    <EmbeddedResource Include="Img\Icon\2.jpg" />
+    <EmbeddedResource Include="Img\Icon\3.ico" />
+    <EmbeddedResource Include="Img\Icon\3.jpg" />
+    <EmbeddedResource Include="Img\Icon\4.ico" />
+    <EmbeddedResource Include="Img\Icon\4.jpg" />
+    <EmbeddedResource Include="Img\Icon\5.ico" />
+    <EmbeddedResource Include="Img\Icon\5.jpg" />
+    <EmbeddedResource Include="Img\Icon\6.ico" />
+    <EmbeddedResource Include="Img\Icon\6.jpg" />
+    <EmbeddedResource Include="Img\Icon\7.ico" />
+    <EmbeddedResource Include="Img\Icon\7.jpg" />
+    <EmbeddedResource Include="Img\Icon\8.ico" />
+    <EmbeddedResource Include="Img\Icon\8.jpg" />
+    <EmbeddedResource Include="Img\Icon\9.ico" />
+    <EmbeddedResource Include="Img\Icon\9.jpg" />
+    <EmbeddedResource Include="Img\Icon\gjjt.ico" />
+    <EmbeddedResource Include="Img\Icon\zglh.ico" />
+    <EmbeddedResource Include="Img\Icon\zttp.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>中国联合CUC</Name>
+		<Assembly>D:\VisualStudio\Template\cuc\src\cuc\bin\Debug\cuc.dll</Assembly>
+		<ClientId>8298D88B-7E1C-45AA-9690-AD0D4422B4F0</ClientId>
+		<FullClassName>cuc.Main</FullClassName>
+		<Text>中国联合Revit交互界面</Text>
+		<Description>Ribbon Description</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<VendorId>中国联合工程公司</VendorId>
+		<VendorDescription>chinacuc.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
