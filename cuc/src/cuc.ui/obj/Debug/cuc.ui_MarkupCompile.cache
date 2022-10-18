@@ -12,9 +12,13 @@ DEBUG;TRACE
 
 7-2063669271
 
+<<<<<<< Updated upstream
 12137830484
+=======
+132059608605
+>>>>>>> Stashed changes
 19-1794934123
 App.xaml;Converters\Converters.xaml;UI\Controls\Family\FamilyItemControl.xaml;UI\Controls\Family\FamilyListControl.xaml;UI\Pages\FamilyManagerMainPage.xaml;UI\Pages\Family\FamilyPage.xaml;UI\Pages\Preferences\PreferencesPage.xaml;
 
-False
+True
 
