@@ -62,3 +62,35 @@ D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.RuntimeCopyLocal
 D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CopyComplete
 D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.dll
 D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.ui.dll
+D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.ui.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.core.dll
+D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.res.dll
+D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.core.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.res.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.AssemblyReference.cache
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyItemControl.g.cs
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyListControl.g.cs
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\FamilyManagerMainPage.g.cs
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Family\FamilyPage.g.cs
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Preferences\PreferencesPage.g.cs
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui_MarkupCompile.cache
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui_MarkupCompile.lref
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\App.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\Converters\Converters.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyItemControl.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyListControl.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\FamilyManagerMainPage.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Family\FamilyPage.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Preferences\PreferencesPage.baml
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.g.resources
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.Properties.Resources.resources
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.GenerateResource.cache
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CoreCompileInputs.cache
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.CopyLocal.cache
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.RuntimeCopyLocal.cache
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CopyComplete
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.dll
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.pdb

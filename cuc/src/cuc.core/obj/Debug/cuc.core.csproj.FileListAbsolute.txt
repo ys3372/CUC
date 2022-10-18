@@ -26,3 +26,17 @@ D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.RuntimeCopyL
 D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.CopyComplete
 D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.dll
 D:\VisualStudio\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.core\bin\Debug\cuc.core.dll
+D:\Github Repositories\CUC\cuc\src\cuc.core\bin\Debug\cuc.core.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.core\bin\Debug\cuc.res.dll
+D:\Github Repositories\CUC\cuc\src\cuc.core\bin\Debug\cuc.res.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.AssemblyReference.cache
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.TagWallLayersForm.resources
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.GenerateResource.cache
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.CoreCompileInputs.cache
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.CopyLocal.cache
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.Fody.RuntimeCopyLocal.cache
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.csproj.CopyComplete
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.dll
+D:\Github Repositories\CUC\cuc\src\cuc.core\obj\Debug\cuc.core.pdb
