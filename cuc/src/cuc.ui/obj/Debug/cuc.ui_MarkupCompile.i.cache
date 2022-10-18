@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\
 cuc.ui
 none
 false
@@ -13,8 +13,8 @@ DEBUG;TRACE
 7-2063669271
 
 132059608605
-19383582450
+19-1794934123
 App.xaml;Converters\Converters.xaml;UI\Controls\Family\FamilyItemControl.xaml;UI\Controls\Family\FamilyListControl.xaml;UI\Pages\FamilyManagerMainPage.xaml;UI\Pages\Family\FamilyPage.xaml;UI\Pages\Preferences\PreferencesPage.xaml;
 
-False
+True
 
