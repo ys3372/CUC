@@ -37,9 +37,6 @@ D:\Github Repositories\CUC\cuc\src\cuc\bin\Debug\cuc.res.pdb
 D:\Github Repositories\CUC\cuc\src\cuc\bin\Debug\cuc.ui.pdb
 D:\Github Repositories\CUC\cuc\src\cuc\obj\Debug\cuc.csproj.AssemblyReference.cache
 D:\Github Repositories\CUC\cuc\src\cuc\obj\Debug\cuc.csproj.CoreCompileInputs.cache
-<<<<<<< Updated upstream
-=======
 D:\Github Repositories\CUC\cuc\src\cuc\obj\Debug\cuc.csproj.CopyComplete
->>>>>>> Stashed changes
 D:\Github Repositories\CUC\cuc\src\cuc\obj\Debug\cuc.dll
 D:\Github Repositories\CUC\cuc\src\cuc\obj\Debug\cuc.pdb
