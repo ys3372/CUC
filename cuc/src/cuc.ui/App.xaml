@@ -2,9 +2,6 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:local="clr-namespace:cuc.ui">
     <ResourceDictionary.MergedDictionaries>
-        
-        <!--Styles.--><!--
-        <ResourceDictionary Source="Styles/Color.xaml"/>-->
 
         <!-- Converters.-->
         <ResourceDictionary Source="Converters/Converters.xaml"/>

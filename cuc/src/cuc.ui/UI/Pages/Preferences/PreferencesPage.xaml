@@ -18,7 +18,7 @@
 
     <Grid Background="CadetBlue">
         <TextBlock Text="Preferences"
-                   Foreground="{StaticResource RedFontBrush}"
+                   Foreground="Blue"
                    FontSize="18"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"/>

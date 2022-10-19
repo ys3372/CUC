@@ -1,67 +1,3 @@
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.AssemblyReference.cache
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Pages\FamilyManagerMainPage.g.cs
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui_MarkupCompile.cache
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui_MarkupCompile.lref
-D:\VisualStudio\Template\cuc\src\cuc.ui\bin\Debug\cuc.ui.dll
-D:\VisualStudio\Template\cuc\src\cuc.ui\bin\Debug\cuc.ui.pdb
-D:\VisualStudio\Template\cuc\src\cuc.ui\bin\Debug\cuc.core.dll
-D:\VisualStudio\Template\cuc\src\cuc.ui\bin\Debug\cuc.res.dll
-D:\VisualStudio\Template\cuc\src\cuc.ui\bin\Debug\cuc.core.pdb
-D:\VisualStudio\Template\cuc\src\cuc.ui\bin\Debug\cuc.res.pdb
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Pages\FamilyManagerMainPage.baml
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.g.resources
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.Properties.Resources.resources
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.GenerateResource.cache
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CopyComplete
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.dll
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.pdb
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.GeneratedMSBuildEditorConfig.editorconfig
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.CopyLocal.cache
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.RuntimeCopyLocal.cache
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Pages\Family\FamilyPage.g.cs
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Pages\Preferences\PreferencesPage.g.cs
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Pages\Family\FamilyPage.baml
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Pages\Preferences\PreferencesPage.baml
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\GeneratedInternalTypeHelper.g.cs
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\Converters\Converters.baml
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\App.baml
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyItemControl.g.cs
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyListControl.g.cs
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyItemControl.baml
-D:\VisualStudio\Template\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyListControl.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\bin\Debug\cuc.ui.dll
-D:\VisualStudio\CUC\cuc\src\cuc.ui\bin\Debug\cuc.ui.pdb
-D:\VisualStudio\CUC\cuc\src\cuc.ui\bin\Debug\cuc.core.dll
-D:\VisualStudio\CUC\cuc\src\cuc.ui\bin\Debug\cuc.res.dll
-D:\VisualStudio\CUC\cuc\src\cuc.ui\bin\Debug\cuc.core.pdb
-D:\VisualStudio\CUC\cuc\src\cuc.ui\bin\Debug\cuc.res.pdb
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.AssemblyReference.cache
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyItemControl.g.cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyListControl.g.cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\FamilyManagerMainPage.g.cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Family\FamilyPage.g.cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Preferences\PreferencesPage.g.cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\GeneratedInternalTypeHelper.g.cs
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui_MarkupCompile.cache
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui_MarkupCompile.lref
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\App.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\Converters\Converters.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyItemControl.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Controls\Family\FamilyListControl.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\FamilyManagerMainPage.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Family\FamilyPage.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\UI\Pages\Preferences\PreferencesPage.baml
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.g.resources
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.Properties.Resources.resources
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.GenerateResource.cache
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.GeneratedMSBuildEditorConfig.editorconfig
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CoreCompileInputs.cache
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.CopyLocal.cache
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.RuntimeCopyLocal.cache
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CopyComplete
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.dll
-D:\VisualStudio\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.pdb
 D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.ui.dll
 D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.ui.pdb
 D:\Github Repositories\CUC\cuc\src\cuc.ui\bin\Debug\cuc.core.dll
@@ -94,4 +30,3 @@ D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.RuntimeCo
 D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CopyComplete
 D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.dll
 D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.pdb
-D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\Styles\Colors.baml
