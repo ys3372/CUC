@@ -8,7 +8,15 @@
              d:DesignHeight="60" d:DesignWidth="300"
              Height="40">
     
-    <Grid Background="#FF8EA2B5">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../../App.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    
+    <Grid Background="{StaticResource MainBackgroundBrush}">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="20"/>

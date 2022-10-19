@@ -6,7 +6,16 @@
              xmlns:local="clr-namespace:cuc.ui"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
-    <Grid Background="White">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../../App.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid Background="{StaticResource MainBackgroundBrush}">
 
         <!--list of the items-->
             <ScrollViewer VerticalScrollBarVisibility="Auto"

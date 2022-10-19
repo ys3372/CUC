@@ -8,14 +8,18 @@
       d:DesignHeight="300" d:DesignWidth="300"
       Title="FamilyPage">
 
-    <Grid Background="AliceBlue">
-        <!--<TextBlock Text="Family"
-                   Foreground="LightGray"
-                   FontSize="18"
-                   VerticalAlignment="Center"
-                   HorizontalAlignment="Center"/>-->
+    <local:BasePage.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../../App.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </local:BasePage.Resources>
 
-
+    <Grid Background="{StaticResource MainBackgroundBrush}">
         <local:FamilyListControl/>
     </Grid>
+    
+    
+    
 </local:BasePage>
