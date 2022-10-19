@@ -10,7 +10,7 @@
 
     <Grid Background="AliceBlue">
         <!--<TextBlock Text="Family"
-                   Foreground="DarkGray"
+                   Foreground="LightGray"
                    FontSize="18"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"/>-->
