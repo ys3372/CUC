@@ -1,9 +1,3 @@
-D:\VisualStudio\Template\cuc\src\cuc.res\bin\Debug\cuc.res.dll
-D:\VisualStudio\Template\cuc\src\cuc.res\bin\Debug\cuc.res.pdb
-D:\VisualStudio\Template\cuc\src\cuc.res\obj\Debug\cuc.res.csproj.AssemblyReference.cache
-D:\VisualStudio\Template\cuc\src\cuc.res\obj\Debug\cuc.res.csproj.CoreCompileInputs.cache
-D:\VisualStudio\Template\cuc\src\cuc.res\obj\Debug\cuc.res.dll
-D:\VisualStudio\Template\cuc\src\cuc.res\obj\Debug\cuc.res.pdb
 D:\Github Repositories\CUC\cuc\src\cuc.res\bin\Debug\cuc.res.dll
 D:\Github Repositories\CUC\cuc\src\cuc.res\bin\Debug\cuc.res.pdb
 D:\Github Repositories\CUC\cuc\src\cuc.res\obj\Debug\cuc.res.csproj.AssemblyReference.cache
