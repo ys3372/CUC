@@ -16,7 +16,7 @@
         </ResourceDictionary>
     </local:BasePage.Resources>-->
 
-    <Grid Background="{StaticResource MainBackgroundBrush}">
+    <Grid Background="CadetBlue">
         <TextBlock Text="Preferences"
                    Foreground="{StaticResource RedFontBrush}"
                    FontSize="18"

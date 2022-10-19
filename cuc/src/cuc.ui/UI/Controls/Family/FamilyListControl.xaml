@@ -15,7 +15,7 @@
         </ResourceDictionary>
     </UserControl.Resources>-->
 
-    <Grid Background="{StaticResource MainBackgroundBrush}">
+    <Grid Background="Aqua">
 
         <!--list of the items-->
             <ScrollViewer VerticalScrollBarVisibility="Auto"

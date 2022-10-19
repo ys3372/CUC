@@ -16,7 +16,7 @@
         </ResourceDictionary>
     </UserControl.Resources>-->
     
-    <Grid Background="{StaticResource MainBackgroundBrush}">
+    <Grid Background="Azure">
 
         <Grid.RowDefinitions>
             <RowDefinition Height="20"/>
