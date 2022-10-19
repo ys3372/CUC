@@ -8,18 +8,8 @@
       d:DesignHeight="300" d:DesignWidth="300"
       Title="FamilyPage">
 
-    <local:BasePage.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="../../../App.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-    </local:BasePage.Resources>
-
     <Grid Background="{StaticResource MainBackgroundBrush}">
         <local:FamilyListControl/>
     </Grid>
-    
-    
     
 </local:BasePage>

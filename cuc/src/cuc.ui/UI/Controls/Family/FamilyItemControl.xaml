@@ -7,15 +7,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="60" d:DesignWidth="300"
              Height="40">
-    
-    <!--<UserControl.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="../../../App.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
-    </UserControl.Resources>-->
-    
+
     <Grid Background="Azure">
 
         <Grid.RowDefinitions>
