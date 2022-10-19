@@ -8,7 +8,7 @@
     /// <seealso cref="cuc.ui.BasePage"/>
     /// <seealso cref="System.Windows.Markup.IComponentConnector"/>
 
-    public partial class FamilyPage : Page
+    public partial class FamilyPage : BasePage
     {
         #region constructor
         /// <summary>
