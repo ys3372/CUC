@@ -16,7 +16,7 @@
         </ResourceDictionary>
     </Page.Resources>
         
-    <Grid Background="AliceBlue">
+    <Grid Background="{StaticResource MainBackgroundBrush}">
         <Grid.RowDefinitions>
             <RowDefinition Height="20" />
             <RowDefinition Height="*" />

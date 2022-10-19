@@ -3,6 +3,9 @@
                     xmlns:local="clr-namespace:cuc.ui">
     <ResourceDictionary.MergedDictionaries>
 
+        <!--Styles.-->
+        <ResourceDictionary Source="Styles/Colors.xaml"/>
+
         <!-- Converters.-->
         <ResourceDictionary Source="Converters/Converters.xaml"/>
             

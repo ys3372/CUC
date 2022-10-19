@@ -8,17 +8,17 @@
       d:DesignHeight="300" d:DesignWidth="300"
       Title="PreferencesPage">
 
-    <!--<local:BasePage.Resources>
+    <local:BasePage.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="../../../App.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
-    </local:BasePage.Resources>-->
+    </local:BasePage.Resources>
 
-    <Grid Background="CadetBlue">
+    <Grid Background="{StaticResource MainBackgroundBrush}">
         <TextBlock Text="Preferences"
-                   Foreground="Blue"
+                   Foreground="{StaticResource RedFontBrush}"
                    FontSize="18"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Center"/>
