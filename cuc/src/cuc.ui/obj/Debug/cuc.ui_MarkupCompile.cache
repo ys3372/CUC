@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 
-7-2063669271
+81299163305
 
-12137830484
+14-711576994
 19-1794934123
-App.xaml;Converters\Converters.xaml;UI\Controls\Family\FamilyItemControl.xaml;UI\Controls\Family\FamilyListControl.xaml;UI\Pages\FamilyManagerMainPage.xaml;UI\Pages\Family\FamilyPage.xaml;UI\Pages\Preferences\PreferencesPage.xaml;
+App.xaml;Converters\Converters.xaml;Styles\Colors.xaml;UI\Controls\Family\FamilyItemControl.xaml;UI\Controls\Family\FamilyListControl.xaml;UI\Pages\FamilyManagerMainPage.xaml;UI\Pages\Family\FamilyPage.xaml;UI\Pages\Preferences\PreferencesPage.xaml;
 
 False
 

@@ -94,3 +94,4 @@ D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.Fody.RuntimeCo
 D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.csproj.CopyComplete
 D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.dll
 D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\cuc.ui.pdb
+D:\Github Repositories\CUC\cuc\src\cuc.ui\obj\Debug\Styles\Colors.baml

@@ -5,11 +5,11 @@
     /// <summary>
     /// Interaction logic for FamilyPage.xaml
     /// </summary>
-    /// <seealso cref="System.Windows.Controls.Page"/>
+    /// <seealso cref="cuc.ui.BasePage"/>
     /// <seealso cref="System.Windows.Markup.IComponentConnector"/>
     /// <seealse cref="Page">
 
-    public partial class PreferencesPage : Page
+    public partial class PreferencesPage : BasePage
     {
         #region constructor
         /// <summary>

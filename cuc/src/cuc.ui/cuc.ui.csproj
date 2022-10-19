@@ -63,6 +63,7 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animation\PageAnimationType.cs" />
     <Compile Include="Converters\MainApplicationPageValueConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
@@ -86,6 +87,7 @@
     <Compile Include="UI\Controls\Family\FamilyListControl.xaml.cs">
       <DependentUpon>FamilyListControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UI\Pages\Base\BasePage.cs" />
     <Compile Include="UI\Pages\FamilyManagerMainPage.xaml.cs">
       <DependentUpon>FamilyManagerMainPage.xaml</DependentUpon>
     </Compile>
@@ -126,6 +128,10 @@
     <Page Include="Converters\Converters.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Styles\Colors.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
     </Page>
     <Page Include="UI\Controls\Family\FamilyItemControl.xaml">
       <SubType>Designer</SubType>

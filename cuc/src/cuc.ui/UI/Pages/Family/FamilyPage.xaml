@@ -1,4 +1,4 @@
-﻿<Page x:Class="cuc.ui.FamilyPage"
+﻿<local:BasePage x:Class="cuc.ui.FamilyPage"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -18,4 +18,4 @@
 
         <local:FamilyListControl/>
     </Grid>
-</Page>
+</local:BasePage>
