@@ -7,6 +7,6 @@
     {
         None = 0,
         Fade = 1,
-        Slide =2,
+        Slide = 2,
     }
 }
